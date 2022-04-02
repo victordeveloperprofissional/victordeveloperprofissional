@@ -1,7 +1,7 @@
 <h1 align="center">Hi! João Victor here. 🐍</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/victormouradev)
-[![Facebook](https://img.shields.io/badge/Facebook-363636?style=for-the-badge&logo=facebook&logoColor=green)](https://www.facebook.com/victormouradev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-363636?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/joaovictorprofissional)
+[![Facebook](https://img.shields.io/badge/Facebook-363636?style=for-the-badge&logo=facebook&logoColor=green)](https://www.facebook.com/joaovictorprofissional)
 [![Instagram](https://img.shields.io/badge/Instagram-363636?style=for-the-badge&logo=instagram&logoColor=green)](https://www.instagram.com/victormouradev)
 
 <div>
